@@ -1,0 +1,6 @@
+﻿  BJ.cpp
+C:\Users\dimag\Desktop\курсы\4 курс\BJ\BJ\BJ.cpp(95,20): error C2022: 9829: слишком большое значение для знака
+C:\Users\dimag\Desktop\курсы\4 курс\BJ\BJ\BJ.cpp(98,20): error C2022: 9824: слишком большое значение для знака
+C:\Users\dimag\Desktop\курсы\4 курс\BJ\BJ\BJ.cpp(101,20): error C2022: 9830: слишком большое значение для знака
+C:\Users\dimag\Desktop\курсы\4 курс\BJ\BJ\BJ.cpp(104,20): error C2022: 9827: слишком большое значение для знака
+C:\Users\dimag\Desktop\курсы\4 курс\BJ\BJ\BJ.cpp(411,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
